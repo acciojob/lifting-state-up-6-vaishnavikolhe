@@ -17,5 +17,3 @@ function Child({ todos, handleComplete }) {
 }
 
 export default Child;
-Footer
-© 2023 GitHub, Inc.
